@@ -1,5 +1,5 @@
 # README
-Flat-Tracker-Pal
+App: Flat-Tracker-Pal
 
 A ReactJs application that tracks and organizes the user’s record of their daily food and calorie intake:
 
