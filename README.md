@@ -1,5 +1,9 @@
 # Flat-Tracker-Pal
 
+### Project By:
+- Avelon Pang
+- Chi Ngyuen
+
 ## Overview
 A ReactJs application that tracks and organizes the user’s record of their daily food and calorie intake
 
